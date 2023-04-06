@@ -25,6 +25,3 @@
 
 ![Snake animation](https://github.com/biancacastanha/biancacastanha/blob/output/github-contribution-grid-snake.svg)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
