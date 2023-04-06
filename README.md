@@ -24,3 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BiancaCastanha&theme=tokyonight&border_radius=8" alt="biancacastanha" /></p>
 
 ![Snake animation](https://github.com/biancacastanha/biancacastanha/blob/output/github-contribution-grid-snake.svg)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
