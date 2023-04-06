@@ -21,5 +21,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biancacastanha&show_icons=true&theme=tokyonight" alt="biancacastanha" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BiancaCastanha&theme=tokyonight&border_radius=8" alt="biancacastanha" /></p>
 
-<p>![Snake animation](https://github.com/biancacastanha/biancacastanha/blob/output/github-contribution-grid-snake.svg)</p>
-
+![Snake animation](https://github.com/biancacastanha/biancacastanha/blob/output/github-contribution-grid-snake.svg)
