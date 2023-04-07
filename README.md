@@ -9,7 +9,9 @@
 
 - 🪸 I'm looking forward to learning **Flutter, Dart, Angular, React, Python**
 
-- ⚡ Fun fact **I sing**
+- ⚡ Fun fact **I sing and love tabletop games, such as D&D where I'm currently a <em>Tiefling Rogue</em>**
+
+- 🌎 I speak **Portuguese, English, French, Spanish and <em>Infernal</em>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
