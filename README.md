@@ -23,4 +23,4 @@
 
 &emsp;&emsp;![Snake animation](https://github.com/biancacastanha/biancacastanha/blob/output/github-contribution-grid-snake.svg)
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bimello001&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=974eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bimello001&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=974eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
