@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bianca Castanha</h1>
-<h3 align="center">I'm Director of Front End Development at Inova Tech Jr.</h3>
+<h3 align="center">I'm a Front End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biancacastanha&label=Profile%20views&color=0e75b6&style=flat" alt="biancacastanha" /> </p>
 
