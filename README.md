@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biancacastanha&label=Profile%20views&color=0e75b6&style=flat" alt="biancacastanha" /> </p>
 
-- 🔭 I’m currently working on **my TCC (Final Project for University)**
+- 🔭 I’m currently working on **my thesis (Final Project for University)**
 
 - 🌱 I’m currently learning **HTML5, CSS3, Javascript**
 
